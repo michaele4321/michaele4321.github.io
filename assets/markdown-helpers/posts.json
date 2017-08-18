@@ -1,0 +1,17 @@
+{
+    "posts": [
+        
+        {
+            "title": "Comparing Semantic Extraction Tools",
+            "url": "/semantics/2017/07/26/comparing-semantic-extraction-tools.html",
+            "date": "2017-07-26T10:48:25+10:00"
+        },
+        
+        {
+            "title": "Uploading an Oracle Database Dump File to AWS RDS",
+            "url": "/oracle/2017/07/26/uploading-an-oracle-db-to-aws-rds.html",
+            "date": "2017-07-26T10:48:25+10:00"
+        }
+        
+    ]
+}
